@@ -38,12 +38,18 @@ h4.amiable{
 
 }
 
+h4.indifferent{
+  background: linear-gradient(to right, #44cc66, #22aa44)
+}
 .indifferent {
   border:1px solid #b5b518;
   background-color: #dddd22;
   box-shadow:  -1px 1px #b5b518, -2px 2px #b5b518, -3px 3px #b5b518, -4px 4px #b5b518, -5px 5px #b5b518;
 }
 
+h4.dubious{
+  background: linear-gradient(to right, #44cc66, #22aa44)
+}
 .dubious {
   border:1px solid #9c3030;
   background-color: #dd4444;
